@@ -9,6 +9,8 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
         FIRST AWS APPLICATION (changed to feature branch)
+
+        History our pasts
         </p>
         <a
           className="App-link"
